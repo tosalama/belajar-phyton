@@ -1,0 +1,23 @@
+buka studio visual, lalu ngetik
+ fulname = input("name")
+ nikname = input("name")
+ mynpm = input("npm")
+ old = input("umur")
+ addres = input("alamat")
+ numberphone = input("phone")
+ enter
+ print ("asaalamualaikum")
+ print (let me introduce my self.my name is") ("name") print ("but you can call me") ("nikname") print ("my npm is") ("npm") print ("i was born in") ("tempat lahir") print ("and i am very glad if you want to invite my house in") ("alamat') print ("so don't forget to call me before with the number') ("telepon")
+ enter
+ print ("thank you")
+ ketik RUN kemudian enter
+ ketik.....
+ nama edhy martha
+ name edi
+ npm 312110562
+ umur 52 tahun
+ alamat jalan palem 2 no 45d 
+ nomor telpon 081212711644
+ assalamualaikum
+ 
+  
